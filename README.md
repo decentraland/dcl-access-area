@@ -25,7 +25,7 @@ To use any of the helpers provided by this library:
 1. Install this library as an npm package. Run this command in your scene's project folder:
 
    ```
-   npm install dcl-access-area
+   npm install @dcl/access-area
    ```
 
 2. Install the following dependency libraries, if not already in your project:
@@ -37,7 +37,7 @@ To use any of the helpers provided by this library:
 3. Add this line at the start of your game.ts file, or any other TypeScript files that require it:
 
    ```ts
-   import * as access from 'dcl-access-area'
+   import * as access from '@dcl/access-area'
    ```
 
 ## Usage
