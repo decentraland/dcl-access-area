@@ -1,6 +1,6 @@
 {
-  "name": "dcl-access-area",
-  "version": "1.1.4",
+  "name": "@dcl/access-area",
+  "version": "1.0.0",
   "description": "This is a restricted access area based on nft ownership or wearable ownership",
   "main": "./dist/index.js",
   "scripts": {
